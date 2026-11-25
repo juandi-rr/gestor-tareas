@@ -1,0 +1,11 @@
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.completada{
+    color: rgb(22, 59, 127);
+}
+
+.pendiente{
+    color: rgb(120, 0, 0);
+}
