@@ -9,3 +9,12 @@
 .pendiente{
     color: rgb(120, 0, 0);
 }
+
+/* notas */
+.aprobado{
+    color: rgb(16, 87, 47);
+}
+
+.suspenso{
+    color: rgb(120, 0, 0);
+}
